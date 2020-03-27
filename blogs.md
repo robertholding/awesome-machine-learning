@@ -93,7 +93,6 @@ http://hunch.net/
 
 http://www.randalolson.com/blog/
 
-<<<<<<< HEAD
 http://www.datasciencecentral.com/
 =======
 https://www.johndcook.com/blog/r_language_for_programmers/
@@ -111,7 +110,7 @@ http://blog.shakirm.com/
 https://www.cs.ox.ac.uk/people/yarin.gal/website/blog.html
 
 [LightTag NLP Blog](https://www.lighttag.io/blog)
->>>>>>> upstream/master
+
 
 Math
 ----
